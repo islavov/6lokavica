@@ -1,33 +1,61 @@
+body {
+  background-color: #dec194;
+
+}
 .App {
   text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+  width: 300px;
+  height: 150px;
+  overflow: hidden;
+}
+
+.App-logo > img {
+  max-width: 310px;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 20px 0;
+  border-bottom: 1px solid #b1b1b1;
+  margin: 0px 30px;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.textareata {
+  width: 400px;
+  height: 200px;
+  background-color: #faf5ed;
+}
+
+.ShloKontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.ShloKontainer > div {
+  min-width: 500px;
+  min-height: 400px;
+  text-align: left;
+}
+
+textarea {
+  min-width: 500px;
+}
+
+.shlokResult {
+  border: 1px solid #b1b1b1;
+  width: 500px;
+  min-height: 210px;
+  font-size: 0.8em;
 }
