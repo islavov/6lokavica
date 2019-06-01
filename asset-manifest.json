@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/6lokavica/static/css/main.95a29905.chunk.css",
+    "main.js": "/6lokavica/static/js/main.923d5859.chunk.js",
+    "main.js.map": "/6lokavica/static/js/main.923d5859.chunk.js.map",
+    "runtime~main.js": "/6lokavica/static/js/runtime~main.eef6944c.js",
+    "runtime~main.js.map": "/6lokavica/static/js/runtime~main.eef6944c.js.map",
+    "static/js/2.93bfb7ad.chunk.js": "/6lokavica/static/js/2.93bfb7ad.chunk.js",
+    "static/js/2.93bfb7ad.chunk.js.map": "/6lokavica/static/js/2.93bfb7ad.chunk.js.map",
+    "index.html": "/6lokavica/index.html",
+    "precache-manifest.462c49efff28c8ffbe005791fb9e41d2.js": "/6lokavica/precache-manifest.462c49efff28c8ffbe005791fb9e41d2.js",
+    "service-worker.js": "/6lokavica/service-worker.js",
+    "static/css/main.95a29905.chunk.css.map": "/6lokavica/static/css/main.95a29905.chunk.css.map",
+    "static/media/KIRILICATA.png": "/6lokavica/static/media/KIRILICATA.570a3d4f.png"
+  }
+}
