@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c455a167bdb5d925e7a9c316c0255f42",
+    "revision": "b35ec459097ab59c5d574b2d7e38b728",
     "url": "/6lokavica/index.html"
   },
   {
-    "revision": "3fc4c82ba484442f3ef0",
-    "url": "/6lokavica/static/css/main.d2a2b893.chunk.css"
+    "revision": "2405fc3cd446f3b6e328",
+    "url": "/6lokavica/static/css/main.04978b26.chunk.css"
   },
   {
     "revision": "c06845ccae2ec18d8499",
     "url": "/6lokavica/static/js/2.6a467e3d.chunk.js"
   },
   {
-    "revision": "3fc4c82ba484442f3ef0",
-    "url": "/6lokavica/static/js/main.60f91376.chunk.js"
+    "revision": "2405fc3cd446f3b6e328",
+    "url": "/6lokavica/static/js/main.d780ea1d.chunk.js"
   },
   {
     "revision": "1eb1de6dec4d17edbfa4",
