@@ -11,7 +11,7 @@ export const MainContainer = () => {
         <div className="column">
             <div className="box outlined">
                 <h4 className="title is-size-3">Текст на кирилица</h4>
-                <textarea className="box" className='is-background-light' rows="6" cols="70" 
+                <textarea className="box" className='is-background-light' rows="6" 
                 value={content} 
                 onChange={(event) => setContent(event.target.value)} className="textareata" />
             </div>
