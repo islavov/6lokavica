@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import logo from './assets/KIRILICATA.png'
-import { ShloKontainer } from './shlokontainer';
+import { MainContainer } from './components/main';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           <img src={logo} alt="logo" />
         </div>
       </header>
-      <ShloKontainer />
+      <MainContainer />
     </div>
   );
 }

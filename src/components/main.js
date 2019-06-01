@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import { nashlok } from './shlok';
+import { nashlok } from '../lib/transliterator';
 
 const InitialText = `Транслитератор от кирилица към шльокавица. Запазва големината на буквите. Поставя заменяеми символи на случаен принцип.
 `
 
-export const ShloKontainer = () => {
+export const MainContainer = () => {
     const [content, setContent] = useState(InitialText)
 
     return <div className="columns">
