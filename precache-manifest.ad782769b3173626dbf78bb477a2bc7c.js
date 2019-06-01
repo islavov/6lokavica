@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b35ec459097ab59c5d574b2d7e38b728",
+    "revision": "73f133391988d3eb4a6582719fb791f1",
     "url": "/6lokavica/index.html"
   },
   {
-    "revision": "2405fc3cd446f3b6e328",
+    "revision": "c663f6e808d21b84f031",
     "url": "/6lokavica/static/css/main.04978b26.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/6lokavica/static/js/2.6a467e3d.chunk.js"
   },
   {
-    "revision": "2405fc3cd446f3b6e328",
-    "url": "/6lokavica/static/js/main.d780ea1d.chunk.js"
+    "revision": "c663f6e808d21b84f031",
+    "url": "/6lokavica/static/js/main.81336ef5.chunk.js"
   },
   {
     "revision": "1eb1de6dec4d17edbfa4",
